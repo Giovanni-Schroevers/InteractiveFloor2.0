@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InteractiveFloor.Plugins", "InteractiveFloor.Plugins.csproj", "{0351A5F3-8BBD-CAFC-9CE2-A3ACB660282F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InteractiveFloor", "InteractiveFloor.csproj", "{9C39AF72-6C9F-AAB6-B072-8F5FA13E0D91}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InteractiveFloor.Editor.Plugins", "InteractiveFloor.Editor.Plugins.csproj", "{5615C8E9-F291-499C-C8FA-A1CED5DD9ECB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0351A5F3-8BBD-CAFC-9CE2-A3ACB660282F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0351A5F3-8BBD-CAFC-9CE2-A3ACB660282F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0351A5F3-8BBD-CAFC-9CE2-A3ACB660282F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0351A5F3-8BBD-CAFC-9CE2-A3ACB660282F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C39AF72-6C9F-AAB6-B072-8F5FA13E0D91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C39AF72-6C9F-AAB6-B072-8F5FA13E0D91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C39AF72-6C9F-AAB6-B072-8F5FA13E0D91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C39AF72-6C9F-AAB6-B072-8F5FA13E0D91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5615C8E9-F291-499C-C8FA-A1CED5DD9ECB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5615C8E9-F291-499C-C8FA-A1CED5DD9ECB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5615C8E9-F291-499C-C8FA-A1CED5DD9ECB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5615C8E9-F291-499C-C8FA-A1CED5DD9ECB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
